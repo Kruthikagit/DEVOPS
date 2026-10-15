@@ -1,4 +1,4 @@
-#factorial program 
+#python prgm
 
 GitHub actions
 def factorial(int n):
