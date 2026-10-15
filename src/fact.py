@@ -1,6 +1,6 @@
 #python prgm
+# first commit
 
-GitHub actions
 def factorial(int n):
 	if (n == 0):
 		return 1
